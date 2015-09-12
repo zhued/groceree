@@ -1,10 +1,12 @@
-package com.example.groceree;
+package activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.groceree.R;
 
 
 public class MainActivity extends ActionBarActivity {
